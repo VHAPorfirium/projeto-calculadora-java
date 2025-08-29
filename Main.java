@@ -10,5 +10,8 @@ public class Main {
 
         int resultado3 = calculadora.multiplicacao(8,3);
         System.out.println("Resultado da multiplicação é: " + resultado3);
+
+        int resultado4 = calculadora.divisao(8, 2);
+        System.out.println("Resultado da divisão é: " + resultado4);
     }
 }
